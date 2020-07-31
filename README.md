@@ -1,5 +1,7 @@
 # Algorithms & Their Analysis
 
+Project and Course Work from CS 560
+
 ## Plagiarism Notice
 **I am making my coursework available under the assumption that it will not be plagiarized. Please do not plagarize, you'll definitely get caught and I'd rather not have to delete this repository :).**
 
